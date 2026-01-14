@@ -39,6 +39,8 @@ The application is built with a modern frontend stack and is designed to be easi
 
 ## 📁 Project Structure
 
+```
+
 smart-waste/
 ├── public/ # Static assets
 ├── src/
@@ -55,8 +57,8 @@ smart-waste/
 ├── README.md
 └── .gitignore
 
-yaml
-Copy code
+```
+
 
 ---
 
@@ -70,30 +72,11 @@ Copy code
 
 ### Installation
 
-1. Clone the repository
 ```bash
 git clone https://github.com/rohitkumar220105/smart-waste.git
 Navigate to the project directory
 
-bash
-Copy code
-cd smart-waste
-Install dependencies
-
-bash
-Copy code
-npm install
-# or
-yarn install
-Start the development server
-
-bash
-Copy code
-npm run dev
-# or
-yarn dev
-Open your browser
-Visit http://localhost:5173
+```
 
 🎯 Usage
 Launch the application locally or via the deployed link
@@ -166,18 +149,13 @@ Fork the repository
 
 Create your feature branch
 
-bash
-Copy code
+
 git checkout -b feature/AmazingFeature
 Commit your changes
 
-bash
-Copy code
 git commit -m "Add AmazingFeature"
 Push to the branch
 
-bash
-Copy code
 git push origin feature/AmazingFeature
 Open a Pull Request
 
@@ -199,3 +177,4 @@ A: Yes. The project is licensed under MIT and free to use.
 ✅ Beginner-friendly yet production-oriented structure
 
 Built with ❤️ using React, TypeScript, and modern web technologies
+
